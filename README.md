@@ -33,6 +33,6 @@ The main goals of the NusaTravel project are to:
 This project is developed by:
 
 - **[Aliza Nurfitrian Meizahra](https://github.com/Alizaaaja4)** - Frontend Developer
+- **[Muh Zaidan Fauzan](https://github.com/Zaidanfzn)** - Frontend Developer
 
 Feel free to reach out for more information or contributions!
-
