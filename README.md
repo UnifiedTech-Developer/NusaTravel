@@ -27,3 +27,12 @@ The main goals of the NusaTravel project are to:
 - **Test Updates** 🚀: Implement and evaluate updates from Laravel 11 along with Nuxt.js version 3.12 to enhance development performance and efficiency.
 - **Enhance User Experience** ✨: Utilize the latest technologies to provide a faster and more responsive user interface.
 - **Explore New Technologies** 🧪: Leverage the latest features of Laravel and Nuxt.js to explore and apply cutting-edge technologies in web application development.
+
+## Developer
+
+This project is developed by:
+
+- **[Aliza Nurfitrian Meizahra](https://github.com/Alizaaaja4)** - Frontend Developer
+
+Feel free to reach out for more information or contributions!
+
