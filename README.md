@@ -34,5 +34,6 @@ This project is developed by:
 
 - **[Aliza Nurfitrian Meizahra](https://github.com/Alizaaaja4)** - Frontend Developer
 - **[Muh Zaidan Fauzan](https://github.com/Zaidanfzn)** - Frontend Developer
+- **[Dhea Aisyah Putri](https://github.com/dheaaisyah)** - UI/UX Design
 
 Feel free to reach out for more information or contributions!
